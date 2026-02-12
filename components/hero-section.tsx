@@ -104,7 +104,8 @@ export default function HeroSection() {
             Contact Me
           </a>
           <a
-            href="#resume"
+            href="/Resume.pdf"
+            download="Nantha_Kumaran_K_Resume.pdf"
             className="inline-flex items-center gap-2 rounded-lg border border-border bg-card/60 px-6 py-3 text-sm font-semibold text-foreground backdrop-blur-sm transition-all hover:border-primary/50 hover:text-primary"
           >
             Download Resume
