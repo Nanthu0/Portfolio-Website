@@ -5,10 +5,10 @@ import { useScrollReveal } from "@/hooks/use-scroll-reveal";
 
 const technicalSkills = [
   { name: "Python", level: 85 },
-  { name: "HTML", level: 90 },
-  { name: "CSS", level: 85 },
-  { name: "JavaScript", level: 80 },
-  { name: "UI/UX Design", level: 75 },
+  { name: "Machine Learning", level: 80 },
+  { name: "Data Analysis", level: 85 },
+  { name: "SQL", level: 75 },
+  { name: "Data Visualization", level: 80 },
 ];
 
 const softSkills = [
@@ -58,10 +58,10 @@ export default function AboutSection() {
               </div>
               <p className="leading-relaxed text-muted-foreground">
                 I am a passionate third-year B.Tech Information Technology
-                student at DMI Engineering College, focused on building
-                intelligent and scalable digital solutions. I thrive on turning
-                complex data into actionable insights and building full-stack
-                applications.
+                student at DMI Engineering College, focused on extracting
+                meaningful insights from data and building intelligent AI solutions. 
+                I thrive on solving complex problems through data analysis, machine learning, 
+                and statistical modeling.
               </p>
             </div>
 

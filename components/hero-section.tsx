@@ -5,9 +5,9 @@ import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 
 const titles = [
   "Aspiring Data Scientist",
-  "Full Stack Developer",
+  "Machine Learning Engineer",
   "AI Enthusiast",
-  "Problem Solver",
+  "Data Analyst",
 ];
 
 export default function HeroSection() {
@@ -83,9 +83,8 @@ export default function HeroSection() {
 
         {/* Tagline */}
         <p className="mx-auto mb-10 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
-          Building intelligent and scalable digital solutions. Third-year B.Tech
-          IT student passionate about Data Science, AI, and full-stack
-          development.
+          Transforming data into actionable insights. Third-year B.Tech
+          IT student passionate about Data Science, Machine Learning, and AI-driven solutions.
         </p>
 
         {/* CTA buttons */}

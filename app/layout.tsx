@@ -13,7 +13,7 @@ const _jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Nantha Kumaran K | Aspiring Data Scientist",
   description:
-    "Portfolio of Nantha Kumaran K - Aspiring Data Scientist, B.Tech IT student passionate about building intelligent and scalable digital solutions.",
+    "Portfolio of Nantha Kumaran K - Aspiring Data Scientist, B.Tech IT student passionate about Machine Learning, AI, and data-driven solutions.",
   icons: {
     icon: "/favico.png",
   },
