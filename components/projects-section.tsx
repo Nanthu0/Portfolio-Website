@@ -10,7 +10,7 @@ const projects = [
       "A machine learning application that analyzes text sentiment using NLP techniques. Built with Python, scikit-learn, and a Flask web interface.",
     tags: ["Python", "ML", "NLP", "Flask"],
     github: "https://github.com/Nanthu0",
-  },
+  },   
   {
     title: "Portfolio Website",
     description:

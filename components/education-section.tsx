@@ -17,7 +17,7 @@ export default function EducationSection() {
         {/* Section header */}
         <div className="mb-16 text-center">
           <span className="mb-2 inline-block font-mono text-sm text-primary">
-            {"// 02. Education"}
+            {"// 03. Education"}
           </span>
           <h2 className="text-balance text-3xl font-bold text-foreground md:text-4xl">
             Academic Background
